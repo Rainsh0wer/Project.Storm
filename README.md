@@ -1,7 +1,7 @@
 # Bài tập Tiếng Việt
 
 <p align="center">
-     <img width="216" height="135" src="resources/yourhomework.png"/>
+     <img width="478" height="304" src="resources/yourhomework.png"/>
 </p>
 
 #### <p align="right"> Minh-Nhật-A3
@@ -16,12 +16,7 @@
 
 **Copy dòng sau và Paste vào bảng điều khiển**
 
-``` Đang trong quá trình coding
-```
-
-<p align="center">
-     <img src="resources/k6.png"/>
-</p>
+``` Đang trong quá trình coding ```
 
 ### 🎬 Video Hướng Dẫn
 ``` Hiện chưa có ```
