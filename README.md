@@ -1,4 +1,4 @@
-# Bài tập Tiếng Việt
+# Bài tập Tiếng Anh
 
 <p align="center">
      <img width="478" height="304" src="resources/yourhomework.png"/>
