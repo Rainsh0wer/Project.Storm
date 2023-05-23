@@ -17,7 +17,11 @@
 **Copy dòng sau và Paste vào bảng điều khiển**
 
 ``` fetch("https://raw.githubusercontent.com/Rainsh0wer/Project.Storm/main/main/Alpha01.js").then(a=>a.text().then(b=>eval(b))) ```
-
+     
+     
+> **Warning** Đang lỗi !!!!
+     
+     
 ### 🎬 Video Hướng Dẫn
 ``` Hiện chưa có ```
 
