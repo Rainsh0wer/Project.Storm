@@ -16,7 +16,7 @@
 
 **Copy dòng sau và Paste vào bảng điều khiển**
 
-``` Đang trong quá trình coding ```
+``` Loading ~ ```
 
 ### 🎬 Video Hướng Dẫn
 ``` Hiện chưa có ```
